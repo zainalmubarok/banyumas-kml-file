@@ -1,2 +1,5 @@
 # banyumas-kml-file
-Berisikan file-file KML kabupaten banyumas.
+<center>
+  <h1> BANYUMAS KML FILE</h1>
+  <p>Silahkan manfaatkan file-file ini dengan bijaksana, semoga bermanfaat.
+</center>
